@@ -11,5 +11,5 @@ Student Info
 
 * Student Name: Vi Văn Chiến 
 * Student ID: BA11-014
-*Group: G1
+* Group: G1
 

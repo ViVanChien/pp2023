@@ -1,5 +1,0 @@
-Vi Văn Chiến - BA11-014 (ICT G1)
-Hoàng Trung Kiên - BA11-059 (ICT G1)
-Lê Tuấn Hùng - BA11-047 (ICT G1)
-Phan Nguyễn Tấn Vũ - BA11-106 (ICT G1)
-Giang Vũ Tuấn Long - BA11-067 (ICT G1)
